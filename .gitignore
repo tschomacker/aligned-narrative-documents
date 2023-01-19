@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+./output/saved_models/*
+.vscode/settings.json
+*__pycache__*
+*.ipynb_checkpoints*
+data/*
+output/*
