@@ -64,3 +64,30 @@ cd src/preprocessing
 python gnats.py
 ```
 to better download it: `tar -cvf gnats.tar.gz gnats`
+
+## License & Acknowledments
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by]. The texts are partially under other licenses. We used texts from [Gutenberg-DE](https://www.projekt-gutenberg.org/info/texte/info.html) and from the [NDR Märchen in Leichter Sprache](https://www.ndr.de/fernsehen/barrierefreie_angebote/leichte_sprache/Rotkaeppchen,rotkaeppchenleichtesprache100.html) project. We would like to thank NDR very much for giving us the opportunity to make this data publicly available for the first time.
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## Citation
+Please have a look out our [CITATION file](https://github.com/tschomacker/aligned-narrative-documents/blob/main/CITATION.cff) or use the followong bibtex:
+```latex
+@inproceedings{SchomackerExploringAutomatic2023,
+title = {{Exploring Automatic Text Simplification of German Narrative Documents}},
+author = {Schomacker, Thorben and Dönicke, Tillmann and Tropmann-Frick, Marina},
+booktitle = {Proceedings of the 19th Conference on Natural Language Processing (KONVENS 2023)},
+language = {eng},
+month = sep,
+year = {2023},
+copyright = {Creative Commons Attribution 4.0 International},
+address = {Ingolstadt, Germany}
+}
+```
