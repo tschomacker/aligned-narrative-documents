@@ -1,26 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software or the data, please cite it as below."
+title: >-
+  Exploring Automatic Text Simplification of German
+  Narrative Documents
+message: >-
+  If you use this software or the data, please cite it as
+  below.
+type: software
 authors:
-- family-names: "Schomacker"
-  given-names: "Thorben"
-- family-names: "Dönicke"
-  given-names: "Tillmann"
-- family-names: "Tropmann-Frick"
-  given-names: "Marina"
-title: "Exploring Automatic Text Simplification of German Narrative Documents"
-date-released: "2022-09-20"
-license: LICENSE-CC-BY
-url: "https://github.com/tschomacker/aligned-narrative-documents"
+  - family-names: Schomacker
+    given-names: Thorben
+  - family-names: Dönicke
+    given-names: Tillmann
+  - family-names: Tropmann-Frick
+    given-names: Marina
+repository-code: 'https://github.com/tschomacker/aligned-narrative-documents'
+license: CC-BY-4.0
 version: 0.1.0
-preferred-citation:
-  type: conference-paper
-  authors:
-- family-names: "Schomacker"
-  given-names: "Thorben"
-- family-names: "Dönicke"
-  given-names: "Tillmann"
-- family-names: "Tropmann-Frick"
-  given-names: "Marina"
-  title: "LLpro: A Literary Language Processing Pipeline for German Narrative Texts"
-  collection-title: "Proceedings of the 19th Conference on Natural Language Processing (KONVENS 2023)"
-  year: 2023
+date-released: '2023-09-19'
